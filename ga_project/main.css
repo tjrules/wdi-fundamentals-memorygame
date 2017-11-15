@@ -1,0 +1,121 @@
+body {
+	font-family: Raleway, sans-serif;
+	margin: 0;
+	text-align: center;
+	
+	letter-spacing: 1px;
+
+}
+
+header {
+	color: white;
+	background-color: #f15B31;
+	 
+	padding: 30px 20px 30px 20px;
+
+}
+
+nav {
+
+	background-color: #00a6b3;
+	
+	padding-top: 20px;
+	padding-bottom: 20px;
+	
+}
+
+main {
+	width: 850px;
+	margin-top: 35px;
+	margin-bottom: 35px;
+	margin-left: auto;
+	margin-right: auto;
+	clear: ;
+}
+
+footer {
+	text-transform: uppercase;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: #0d2c40;
+	color: white;
+	font-size: 14px;
+	letter-spacing: .08em;
+	font-weight: 500;
+
+}
+
+h1 {
+	font-weight: 400;
+	margin: 0;
+	font-weight: 400;
+	font-size: 45px;
+	text-transform: uppercase;
+}
+
+h2 {
+	color: #0d2c40;
+	font-weight: 600;
+	font-size: 20px;
+	text-transform: uppercase;
+
+}
+
+p {
+	font-family: "Droid Serif", serif;
+	line-height: 26px;
+	font-size: 18px;
+	
+}
+
+a {
+	color: white;
+	text-transform: uppercase;	
+	font-weight: 600;
+	font-size: 20px;
+	text-decoration: none;
+	margin-right: 20px;
+	margin-left: 20px;
+	border-bottom: 2px solid transparent;
+}
+
+img {
+	margin: 40px 8px 0px 8px;
+}
+
+
+.message {
+	float: right;
+	
+
+}
+
+.copyright {
+	float: left;
+	
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+.name {
+	font-weight: 700;
+	color: #f15B31;
+
+}
+
+#game-board {
+
+	
+}
+
+a:hover {
+	background-color: gray;
+	border-color: white;
+}
